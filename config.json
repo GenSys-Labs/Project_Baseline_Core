@@ -1,0 +1,8 @@
+{
+  "project": "BASELINE",
+  "subject_id": "01",
+  "haptic_feedback": true,
+  "memory_retention": 0.99,
+  "override_url": "gen-sys.ca/override",
+  "status": "CONTAINED"
+}
